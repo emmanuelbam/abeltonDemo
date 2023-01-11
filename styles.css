@@ -312,6 +312,7 @@ hr{
 }
 input{
   border: 0;
+  padding: 20px 6opx;
 }
 .input-text{
   border: 0;
@@ -320,7 +321,7 @@ input{
 .footer-button{
   background-color: blue;
   border: 0;
-  padding-top: 20px 20px;
+  padding: 20px 60px;
 }
 select{
   border: 0;
