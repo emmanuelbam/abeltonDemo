@@ -313,7 +313,7 @@ hr{
 input{
   border: 0;
 }
-input{
+.input-text{
   border: 0;
   padding-top: 20px 60px;
 }
